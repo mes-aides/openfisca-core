@@ -1,5 +1,11 @@
 # Changelog
 
+### 34.7.3 [#951](https://github.com/openfisca/openfisca-core/pull/951)
+
+#### Technical changes
+
+- Avoid Web API failure with complex variable generation
+
 ### 34.7.2 [#948](https://github.com/openfisca/openfisca-core/pull/948)
 
 #### Technical changes
